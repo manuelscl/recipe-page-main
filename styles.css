@@ -81,7 +81,8 @@ hr {
 
 .preparation-time .section-title {
     font-size: 2rem;
-    font-weight: 500;
+    font-weight: 600;
+    font-family: "Outfit", sans-serif;
     color: hsl(332, 51%, 32%);
     line-height: 2rem;
 }
@@ -153,11 +154,11 @@ hr {
     .recipe-section{
         padding: 4rem 4rem;
         border-radius: 25px;
-        margin: 50px auto;
+        margin: 13rem auto;
     }
 
     .recipe-img {
-        border-radius: 10px;
+        border-radius: 1rem;
     }
 
     .recipe-content {
@@ -165,7 +166,7 @@ hr {
     }
     
     .recipe-title {
-        margin-top: 3rem;
+        margin-top: 5rem;
     }
 
     table .td-name {
